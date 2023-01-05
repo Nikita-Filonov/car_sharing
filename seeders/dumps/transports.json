@@ -1,0 +1,5 @@
+[
+  { "brand": "Audi", "model": "A3", "max_speed": 100.0, "transport_level_id": 1 },
+  { "brand": "Audi", "model": "A4", "max_speed": 200.0, "transport_level_id": 2 },
+  { "brand": "Audi", "model": "A5", "max_speed": 300.0, "transport_level_id": 3 }
+]

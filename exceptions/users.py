@@ -1,0 +1,2 @@
+class NotAcceptableRating(Exception):
+    pass

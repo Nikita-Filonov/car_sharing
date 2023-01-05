@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "regular",
+    "min_rating": 4.0,
+    "ride_price_per_hour": 100,
+    "await_price_per_hour": 50,
+    "ride_price_per_minute": 10,
+    "await_price_per_minute": 5
+  },
+  {
+    "id": 2,
+    "name": "intermediate",
+    "min_rating": 4.5,
+    "ride_price_per_hour": 200,
+    "await_price_per_hour": 100,
+    "ride_price_per_minute": 20,
+    "await_price_per_minute": 10
+  },
+  {
+    "id": 3,
+    "name": "VIP",
+    "min_rating": 4.75,
+    "ride_price_per_hour": 300,
+    "await_price_per_hour": 150,
+    "ride_price_per_minute": 30,
+    "await_price_per_minute": 15
+  }
+]
